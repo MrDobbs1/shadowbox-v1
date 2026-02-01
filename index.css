@@ -1,0 +1,19 @@
+
+h1 {
+    text-align: center;
+}
+
+#buttons {
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    background-color: beige;
+}
+
+button {
+
+    margin-top: 20px;
+    background-color: red;
+    height: 50px;
+    width: 50px;
+}
