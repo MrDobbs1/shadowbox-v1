@@ -7,13 +7,23 @@ h1 {
     display: flex;
     justify-content: center;
     font-size: 30px;
-    background-color: beige;
+    background-color: black;
 }
 
 button {
-
+    border: 2px solid black;
     margin-top: 20px;
-    background-color: red;
-    height: 50px;
-    width: 50px;
+    background-color: rgb(219, 57, 57);
+    height: 70px;
+    width: 70px;
+    font-size: 20px;
+}
+
+body {
+    background-color: beige;
+}
+
+#time {
+    color: red;
+    font-size: 40px;
 }
